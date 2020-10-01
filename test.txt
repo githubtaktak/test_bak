@@ -6,5 +6,5 @@
 ・git diff
 afs2
 afs2
-afs30
+afs3
 afs4
