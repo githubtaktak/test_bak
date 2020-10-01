@@ -4,4 +4,7 @@
 ・093001
 ・093002
 ・git diff
-afs
+afs2
+afs2
+afs30
+afs4
