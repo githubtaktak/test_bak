@@ -6,5 +6,5 @@
 ・git diff
 afs2
 afs2
-afs300
+afs3000
 afs4
